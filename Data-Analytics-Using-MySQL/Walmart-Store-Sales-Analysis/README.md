@@ -47,10 +47,8 @@ Explore different customer segments, their purchasing trends, and the profitabil
 1. How many unique customer types does the data have? <br/>
 2. How many unique payment methods does the data have?<br/>
 3. What is the most common customer type?<br/>
-4. Which customer type buys the most?<br/>
-5. What is the gender of most of the customers?<br/>
-6. What is the gender distribution per branch?<br/>
-7. Which time of the day do customers give most ratings?<br/>
-8. Which time of the day do customers give most ratings per branch?<br/>
-9. Which day of the week has the best avg ratings?<br/>
-10. Which day of the week has the best average ratings per branch?<br/>
+4. Which customer type buys the most in VAT?<br/>
+5. What is the gender distribution per branch?<br/>
+6. Which time of the day do customers give most ratings?<br/>
+7. Which day of the week has the best avg ratings?<br/>
+
