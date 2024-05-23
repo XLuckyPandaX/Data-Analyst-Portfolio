@@ -61,7 +61,7 @@ ORDER BY total_city_revenue DESC;
 -- 8. What product line had the largest value-added tax?
 SELECT
 	product_line,
-    ROUND(avg(tax_pct),2) avg_tax
+    ROUND(AVG(tax_pct),2) avg_tax
 FROM sales
 GROUP BY product_line
 ORDER BY avg_tax DESC;
