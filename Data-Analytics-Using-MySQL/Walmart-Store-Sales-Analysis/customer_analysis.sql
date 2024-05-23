@@ -37,7 +37,7 @@ ORDER BY branch, gender_count DESC;
 -- 6. Which time of the day do customers give most ratings?
 SELECT 
 	time_of_day,
-    count(*) count_rating
+    COUNT(*) count_rating
 FROM sales
 GROUP BY time_of_day;
     
