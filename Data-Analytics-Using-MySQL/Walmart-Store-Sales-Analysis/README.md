@@ -33,10 +33,9 @@ Explore different customer segments, their purchasing trends, and the profitabil
 6. What product line had the largest revenue?<br/>
 7. What is the city with the largest revenue?<br/>
 8. What product line had the largest VAT?<br/>
-9. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales<br/>
-10. Which branch sold more products than average product sold?<br/>
-11. What is the most common product line by gender?<br/>
-12. What is the average rating of each product line?<br/>
+9. Which branch sold more products than average product sold?<br/>
+10. What is the most common product line by gender?<br/>
+11. What is the average rating of each product line?<br/>
 
 ## Sales
 1. Number of sales made in each time of the day per weekday <br/>
